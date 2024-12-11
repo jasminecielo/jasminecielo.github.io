@@ -2,8 +2,10 @@
 title: "About"
 ---
 
-About this site
+**About Me:**
 
-```{r}
-1 + 1
-```
+As a California native, I've developed a deep appreciation for our environment and the critical need to protect our biodiversity, which often goes unnoticed by many. As a woman of color pursuing opportunities in STEM, I frequently encounter discouragement. However, I've used these challenges to motivate me to seek out programs and internships.\
+\
+During my academic journey, I discovered a profound interest in statistics—a subject that truly resonated with me and sparked a sense of clarity. I found joy in explaining to my classmates the significance of data trends and how they impact our daily lives. These discussions ignited my desire to educate others about statistics. I became an embedded tutor at my local community college and aim to pursue a master's in marine life data trends.\
+\
+This path allows me to merge my passion for statistics with my commitment to understanding and protecting marine ecosystems. Through these experiences, I'm determined to contribute meaningfully to the intersection of STEM and environmental conservation.

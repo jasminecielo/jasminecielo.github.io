@@ -1,7 +1,9 @@
 ---
-title: "jasminecielo.github.io"
+title: "Hi!"
 ---
 
-![](img/Screen Shot 2024-12-04 at 1.03.47 PM.png){fig-align="center"}
+## Welcome everyone!
 
-## Welcome to my page!
+My name is Jasmine Wright, nice to meet you.
+
+![](images/Screen%20Shot%202024-12-05%20at%202.22.11%20PM.png){width="367"}
